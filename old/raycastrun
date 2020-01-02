@@ -1,3 +1,0 @@
-rm raycast;
-gcc -o raycast raycastmain.c -l ncurses -lm;
-./raycast
